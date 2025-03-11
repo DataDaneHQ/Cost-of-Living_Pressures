@@ -1,6 +1,6 @@
-# Cost-of-Living_Pressures
+# Energy_&_Affordability
 
-![Cost of Living Cover Image](Resources/cost-of-living_wallet_drain_1.jpg)
+![Cost of Living Cover Image](Resources/Cover%20Image.jpg)
 
 ## **Welcome!**
 
