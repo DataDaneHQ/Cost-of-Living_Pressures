@@ -16,5 +16,5 @@ This repository highlights the practical application of data analytics in policy
     - A detailed analysis documenting data preprocessing, trend analysis, and key findings on financial hardship in the electricity market.
 2. [Executive Summary Report](https://www.canva.com/design/DAGg9bcdaV4/E9l1O3zczCEd5OOrQpYJhg/view?utm_content=DAGg9bcdaV4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcd00f51203)
     - A concise, high-level summary highlighting key insights, policy implications, and recommendations for stakeholders.
-3. [Final Canva Presentation](Resources/Project_Proposal_Salifort.pdf)
+3. [Final Canva Presentation](https://www.canva.com/design/DAGg0TBHYHo/p2pHs2WO2VIol17WStuRNQ/view?utm_content=DAGg0TBHYHo&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
     - A stakeholder-friendly summary highlighting key project insights in an engaging, visual format.
